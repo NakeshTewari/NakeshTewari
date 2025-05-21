@@ -21,12 +21,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@dragon-warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@dragon-warrior" height="30" width="40" /></a>
-<a href="https://twitter.com/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakeshtewari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakeshtewari" height="30" width="40" /></a>
+<a href="https://x.com/NakeshTewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakeshtewari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nakesh-tewari-25b1a9255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakeshtewari" height="30" width="40" /></a>
 <a href="https://instagram.com/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nakeshtewari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nakeshtewari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nakeshtewari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nakeshtewari" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nakesh1107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nakeshtewari" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/nakesh1107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nakeshtewari" height="30" width="40" /></a>
 <a href="https://discord.gg/nakeshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nakeshtewari" height="30" width="40" /></a>
 </p>
 
